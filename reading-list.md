@@ -1,6 +1,6 @@
 ---
 title: My Friends
-subtitle: link
+subtitle: links
 layout: "page"
 icon: fa-book
 order: 3
